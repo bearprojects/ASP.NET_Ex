@@ -1,11 +1,11 @@
 # ASP.NET_Ex
 
 
-## ASP.NET_HttpBrowserCapabilities
+## HttpBrowserCapabilities
 使用HttpBrowserCapabilities物件，收集瀏覽器相關資訊
 
 
-## ASP.NET_DropDownList
+## DropDownList
 DropDownList選取居住地
 * step1：將DropDownList的AutoPostBack設為True
 * step2：在dwnRegion控制項之Item屬性預先建立項目
