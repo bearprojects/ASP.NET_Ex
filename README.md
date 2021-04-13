@@ -5,9 +5,6 @@
 使用HttpBrowserCapabilities物件，收集瀏覽器相關資訊
 
 
-## DropDownList
-DropDownList選取居住地
-* step1：將DropDownList的AutoPostBack設為True
-* step2：在dwnRegion控制項之Item屬性預先建立項目
-* step3：程式建立DropDownList控制項之連動
-* step4：顯示選取資訊
+## PostBack
+點選Button，增加點擊次數
+
